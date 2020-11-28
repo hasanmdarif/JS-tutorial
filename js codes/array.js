@@ -19,4 +19,4 @@ states.push("Punjab");
 // To add value at the very first position
 states.unshift("Mumbai");
 console.log(states);
-console.log(states.indexOf("Punjab"));
+console.log(states.indexOf("Punjab")); //it prints the index of any element
